@@ -3,7 +3,7 @@
 
 ![ProjectPicture](https://github.com/ShabanIrshad/EmojiGuessingGame/blob/main/Screenshot%202025-08-19%20222407.png)
 
-## Final Resume Highlights (with Styling Skills)
+## Highlights (with Styling Skills)
 
 - Built an interactive Emoji Guessing Game using HTML, CSS, and JavaScript, where users guess emoji names under a countdown timer.
 
